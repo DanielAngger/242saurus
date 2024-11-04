@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanielAngger.github.io/242saurus/blog/</id>
     <title>242saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanielAngger.github.io/242saurus/blog/"/>
     <subtitle>242saurus Blog</subtitle>
     <icon>https://DanielAngger.github.io/242saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://DanielAngger.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://DanielAngger.github.io/242saurus/blog/POP-QUIZ/"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a pop quiz summary.]]></summary>
+        <content type="html"><![CDATA[<p>Hello, Visitors! This is our POP QUIZ W07-4!</p>
+<p>-- Daniel Angger Dewandaru, Belva Ghani A.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Daniel Angger</name>
+            <uri>https://github.com/DanielAngger</uri>
+        </author>
+        <author>
+            <name>Staphlerr</name>
+            <uri>https://github.com/Staphlerr</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://DanielAngger.github.io/242saurus/blog/welcome/</id>
